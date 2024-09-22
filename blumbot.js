@@ -12,7 +12,7 @@
 
 // @grant        none
 
-// @icon         http://notcryptoz.unaux.com/IMG_20240831_075948_151.jpg
+// @icon         https://luffyweb.github.io/Blum/Luffy.jpg
 
 // @updateURL    https://luffyweb.github.io/Blum/blumbot.js
 
