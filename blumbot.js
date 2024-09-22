@@ -308,9 +308,11 @@ try {
 
     const OutGamePausedTrue = document.createElement('a');
 
-    OutGamePausedTrue.href = atob('aHR0cHM6Ly90Lm1lL0luc3RhbnRfRWFybjc3');
+    OutGamePausedTrue.href = atob('aHR0cHM6Ly90Lm1lL0FsdF9MdWZmeQ==');
+    
 
-    OutGamePausedTrue.textContent = atob('SU5TVEFOVCBFQVJO');
+    OutGamePausedTrue.textContent = atob('THVmZnkncyBTY3JpcHQ=');
+    
 
     OutGamePausedTrue.style.color = 'white';
 
