@@ -14,9 +14,9 @@
 
 // @icon         http://notcryptoz.unaux.com/IMG_20240831_075948_151.jpg
 
-// @updateURL    http://notcryptoz.unaux.com/BlumBot.js
+// @updateURL    https://luffyweb.github.io/Blum/blumbot.js
 
-// @downloadURL  http://notcryptoz.unaux.com/BlumBot.js
+// @downloadURL  https://luffyweb.github.io/Blum/blumbot.js
 
 // ==/UserScript==
 
